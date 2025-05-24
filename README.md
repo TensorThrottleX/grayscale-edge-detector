@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/yourusername/image-processing-tool">
+  <a href="https://github.com/TensorThrottleX/image-processing-tool">
     <img src="https://img.shields.io/github/stars/yourusername/image-processing-tool?style=social" alt="GitHub stars">
   </a>
   <a href="https://github.com/yourusername/image-processing-tool">
@@ -97,7 +97,7 @@ This project allows you to apply basic image processing operations like **greysc
 
 ✅ Try the app now:  
 👉 **[🔗 Open Live Demo](https://image-processing-tool-xyz.onrender.com)**  
-📂 Explore the code: **[GitHub Repository](https://github.com/yourusername/image-processing-tool)**
+📂 Explore the code: **[GitHub Repository]((https://github.com/TensorThrottleX/grayscale-edge-detector.git))**
 
 <p align="center">
   <img src="https://github.com/yourusername/image-processing-tool/assets/demo.gif" width="70%" alt="App Demo">
@@ -109,7 +109,7 @@ This project allows you to apply basic image processing operations like **greysc
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/image-processing-tool.git
+git clone [https://github.com/yourusername/image-processing-tool.git](https://github.com/TensorThrottleX/grayscale-edge-detector.git)
 cd image-processing-tool
 
 # Install dependencies
@@ -136,12 +136,12 @@ Found a bug? Have an idea? Feel free to open an issue or pull request 🚀
 This project is licensed under the MIT License.
 See the LICENSE file for details.
 
-<h3 align="center">📬 Let's Connect!</h3> <p align="center"> <a href="https://twitter.com/yourhandle">🐦 Twitter</a> • <a href="https://github.com/yourusername">💻 GitHub</a> • <a href="mailto:youremail@example.com">📧 Email</a> </p>
+<h3 align="center">📬 Let's Connect!</h3> <p align="center"> <a href="https://twitter.com/yourhandle">🐦 Twitter</a> • <a href="https://github.com/TensorThrottleX">💻 GitHub</a>  </p>
 <p align="center"> Built with ❤️ using Python, OpenCV & Streamlit </p> ```)**  
 📂 Explore the code: **[GitHub Repository](https://github.com/yourusername/image-processing-tool)**
 
 <p align="center">
-  <img src="https://github.com/yourusername/image-processing-tool/assets/demo.gif" width="70%" alt="App Demo">
+  <img src="https://github.com/TensorThrottleX/image-processing-tool/assets/demo.gif" width="70%" alt="App Demo">
 </p>
 
 ---
@@ -150,7 +150,7 @@ See the LICENSE file for details.
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/image-processing-tool.git
+git clone https://github.com/TensorThrottleX/image-processing-tool.git
 cd image-processing-tool
 
 # Install dependencies
@@ -177,5 +177,5 @@ Found a bug? Have an idea? Feel free to open an issue or pull request 🚀
 This project is licensed under the MIT License.
 See the LICENSE file for details.
 
-<h3 align="center">📬 Let's Connect!</h3> <p align="center"> <a href="https://twitter.com/yourhandle">🐦 Twitter</a> • <a href="https://github.com/yourusername">💻 GitHub</a> • <a href="mailto:youremail@example.com">📧 Email</a> </p>
+<h3 align="center">📬 Let's Connect!</h3> <p align="center"> <a href="https://twitter.com/TensorThrottleX">🐦 Twitter</a> • <a href="https://github.com/TensorThrottleX">💻 GitHub</a> </p>
 <p align="center"> Built with ❤️ using Python, OpenCV & Streamlit </p> ```
