@@ -7,6 +7,7 @@ from io import BytesIO
 from PIL import Image  
 from skimage import filters
 
+
 # Check if the input is a URL or local file
 def is_url(path):
     return path.startswith('http://') or path.startswith('https://')
@@ -56,7 +57,30 @@ def main():
             st.subheader("Edge Detection")
             st.image(edges_img, use_column_width=True)
 
-            # Save images
+            # Download buttons
+            # Grayscale
+            grey_buffer = BytesIO()
+            grey_img.save(grey_buffer, format="JPEG", quality=quality)
+            grey_buffer.seek(0)
+            st.download_button(
+                label="Download Grayscale Image",
+                data=grey_buffer,
+                file_name="grayscale.jpg",
+                mime="image/jpeg"
+            )
+
+            # Edge-detected
+            edges_buffer = BytesIO()
+            edges_img.save(edges_buffer, format="JPEG", quality=quality)
+            edges_buffer.seek(0)
+            st.download_button(
+                label="Download Edge-Detected Image",
+                data=edges_buffer,
+                file_name="edges.jpg",
+                mime="image/jpeg"
+            )
+
+            # Save images locally (optional for dev use)
             grey_img.save("grey_image.jpg", quality=quality)
             edges_img.save("edges_image.jpg", quality=quality)
 
