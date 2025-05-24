@@ -28,7 +28,7 @@ def main():
     path_or_url = st.text_input("Throw your image URL or upload file below:")
     uploaded_file = st.file_uploader("...or upload a local image file", type=['jpg', 'png', 'jpeg'])
 
-    quality = st.slider("JPEG save quality", 1, 95, 85)
+    quality = st.slider("JPEG save quality", 1, 100, 85)
 
     if st.button("Bang Your Image"):
         try:
@@ -53,7 +53,7 @@ def main():
             st.subheader("Grayscale Image")
             st.image(grey_img, use_column_width=True)
 
-            st.subheader("Sobel Edge Detection")
+            st.subheader("Edge Detection")
             st.image(edges_img, use_column_width=True)
 
             # Save images
