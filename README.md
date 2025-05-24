@@ -47,7 +47,8 @@ This project allows you to apply basic image processing operations like **greysc
 ## 🖥️ Live Demo
 
 ✅ Try the app now:  
-👉 **[🔗 Open Live Demo](<h1 align="center">🖼️✨ Image Processing Tool</h1>
+👉 **[🔗 ![image](https://github.com/user-attachments/assets/4d2ab67c-3e76-43d1-834f-6c2675f1a655)
+](<h1 align="center">🖼️✨ Image Processing Tool</h1>
 <h3 align="center">Convert Images to Greyscale & Detect Edges Instantly!</h3>
 
 <p align="center">
