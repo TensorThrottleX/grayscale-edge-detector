@@ -1,2 +1,5 @@
-scikit-image
 streamlit
+numpy
+Pillow
+scikit-image
+requests
